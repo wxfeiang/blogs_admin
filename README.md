@@ -6,7 +6,8 @@
 
 ### npm run build --report ## 解析 token npm install jwt-decode
 
-## 重复组件得封装
+## 重复组件得封装  
+##  自动部署
 
 ```bash
 # install dependencies
